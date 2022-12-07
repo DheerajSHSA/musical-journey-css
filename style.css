@@ -6,7 +6,7 @@ body {
 }
 
 .flex-container {
-    display: block;
+    display: flex;
 }
 
 .flex-item {
